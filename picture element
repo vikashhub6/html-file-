@@ -1,0 +1,18 @@
+<html>
+   <head>
+      < title> registrion at  nearby sailon </title>
+    </head>
+	</body>
+	    <picture >
+		
+		  <source media = " (min-width: 1200 px)" srcset  = " folder / fileNAME . EXTENSION ">
+		  <source media = " (min-width: 800 px)" srcset  = " folder / fileNAME . EXTENSION ">
+		  <source media = " (min-width: 500 px)" srcset  = " folder / fileNAME . EXTENSION ">
+		  <source media = " (min-width: 450 px)" srcset  = " folder / fileNAME . EXTENSION ">
+		  <img src = folder / file.extension >
+		</picture >
+		
+	
+	</body>	
+		
+</html>
