@@ -1,0 +1,26 @@
+<html>
+    <head>
+        <title>  table </ title >
+          <body> 
+         <table border= "n" style = "width":100%;border-collapse;" >
+            <tr style = "background-color: red;">
+           <th> student'namee </th>
+           <th> father name </th>
+           <th> marks</th>
+           </tr>
+           
+           <tr>
+           <td> vikash </td>
+           <td> rohan </td>
+           <td> 98</td>
+           </tr>
+           
+           <tr>
+             <td> sohan</td>
+             <td> ramesh</td>
+             <td> 98 </td>
+           </tr>
+           
+            </table>
+          </body>
+</html>        
