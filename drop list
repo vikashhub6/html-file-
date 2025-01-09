@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <select>
+        <option>Gate Subject</option>
+        <optgroup label="1 month">
+            <option>Programming Language</option>
+            <option>DSA</option>
+        </optgroup>
+        <optgroup label="1.5 months">
+            <option>Logic Gate</option>
+            <option>Theory of Computation</option>
+            <option>Computer Networks</option>
+        </optgroup>
+    </select>
+</body>
+</html>
