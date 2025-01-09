@@ -1,0 +1,25 @@
+<html>
+   <head>
+     <title> why attribute</title>
+     <style>
+       label{width:100px;
+             display: inline-block;}
+       
+       .arc{
+            margin-left : 15cm;}
+       </style>
+  </head>
+  <body>
+    <fieldset>
+      <form>
+        
+        <label> name</label>  <input type= " text" autofocus value= "enter the name bro" readonly><br><br>
+        <label>email id</label> <input type= "email" required><br><br>
+        <label>roll no </label><input type = " number"  >
+        <br><br>
+          <label>password</label>  <input type= "password" maxlength="3" size="30"><br><br>
+         <input type = "submit" value = "login id " class= "arc">
+        
+      </form>
+    </fieldset>
+  </body>
