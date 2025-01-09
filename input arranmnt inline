@@ -1,0 +1,36 @@
+
+<html>
+<head>
+  <title> required attribute</title>
+  <style>
+    label { 
+          color: red;
+          margin-left :px;
+          background-color:yellow ;
+          width: 100px;
+          display: inline-block;}
+    input { margin-top: 10px;
+            margin-bottom:10px;
+            border-color: red;}
+    
+     fieldset{  background-color : green;
+                margin-top : 30px;
+                 color : orange;}
+    legend{ color : white;}
+
+    
+  </style>
+</head>
+<body>
+  <fieldset>
+  <legend> personaldetail </legend >
+ <form>
+   <label>  username </label>: <input type= "email" ><br> <br>
+     <label> password</label>: <input type = "password"> <br><br>
+       <label> secret code</label>: <input type = "text"  required><br><br>
+    <input type ="submit">
+    </form>
+    </fieldset>
+  
+</body>
+</html>
